@@ -19,4 +19,7 @@
 </ul>
 <h3>Game:</h3>
 
-![xox_DeWatermark](https://github.com/tchelmecki/TicTacToeReactNative/assets/121833733/f713559c-129b-4a5c-8628-59c6b4710ea5)
+
+
+https://github.com/tchelmecki/TicTacToeReactNative/assets/121833733/2af4f75b-d4df-4a76-9331-ddc64ac2f26a
+
